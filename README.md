@@ -7,3 +7,4 @@ Play a customizable alarm sound when an alarm triggers.
 Alarm notification with a visual alert.
 Snooze functionality to delay alarms.
 # Website link : 
+https://aditya00-7.github.io/Alarm-Clock/
